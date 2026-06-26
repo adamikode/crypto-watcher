@@ -8,7 +8,7 @@ st.set_page_config(page_title="Crypto Watcher", page_icon="📈", layout="center
 st.title("Crypto & Stock Market Watcher 📈")
 st.write("Track live prices and charts of your favorite digital assets.")
 st.title("Kahler Crypto 🪙")
-st.write("Buy the dip, HODL erősen! Krisztian megmondta. 💎🙌")
+st.write("Buy the dip, HODL erősen! Krisztián megmondta. 💎🙌")
 
 st.write("---")
 
